@@ -1,0 +1,15 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://tse2.mm.bing.net/th?id=OIP.aMDsKNAiXJT0xFcLwKOe2AHaFj&pid=Api&P=0&w=222&h=167");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-style: ridge;
+}
